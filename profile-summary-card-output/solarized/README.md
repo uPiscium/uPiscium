@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/uPiscium/uPiscium/main/profile-summary-card-output/solarized/4-productive-time.svg)
+```
+
+    
